@@ -1,7 +1,10 @@
 # 🚀 O²Prex - Orchestrator for Your Code Architecture
 
 ### Object-Oriented Process Representation & Architecture EXecution
-<iframe width="560" height="315" src="https://www.youtube.com/embed/COfINr3Tk9s" frameborder="0" allowfullscreen></iframe>
+## 🎥 O²Prex Video Introduction
+
+[![Watch the O²Prex introduction video](https://img.youtube.com/vi/COfINr3Tk9s/0.jpg)](https://youtu.be/COfINr3Tk9s)
+
 ![image1](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/02.png)
 
 > **Unified Visual Architecture • JSON-based OOP Model • AI‑Readable System**
