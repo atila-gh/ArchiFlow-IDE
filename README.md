@@ -1,7 +1,6 @@
 # 🚀 O²Prex - Orchestrator for Your Code Architecture
 
 ### Object-Oriented Process Representation & Architecture EXecution
-![Watch the project introduction clip](https://raw.githubusercontent.com/atila-gh/O2prex/main/docs/O2prex.mp4)
 
 ![image1](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/02.png)
 
