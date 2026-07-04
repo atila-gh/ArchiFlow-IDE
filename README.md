@@ -1,7 +1,7 @@
 # 🚀 O2Prex - Orchestrator for Your Code Architecture
 
 ### Object-Oriented Process Representation & Architecture EXecution
-## 🎥 O²Prex Video Introduction
+## 🎥 O2Prex Video Introduction
 
 [![Watch the O²Prex introduction video](https://img.youtube.com/vi/COfINr3Tk9s/0.jpg)](https://youtu.be/COfINr3Tk9s)
 
