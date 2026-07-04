@@ -1,11 +1,12 @@
-# 📄 Business Proposal (Revised)
+# 📄 Business Proposal - Universal Edition
+
 ## O²Prex - Visual OOP Architecture IDE
 
 ### Object-Oriented Process Representation & Architecture EXecution
 
 ---
 
-**Document Version:** 2.0 (Revised)  
+**Document Version:** 3.0 (Universal Edition)  
 **Date:** July 2026  
 **Author:** Atila Ghashghaie  
 **Classification:** Confidential - Commercial Proposal  
@@ -41,15 +42,15 @@ This gap represents a significant opportunity for innovation in the developer to
 
 ### 1.2 The Solution
 
-**O²Prex (Object-Oriented Process Representation & Architecture EXecution)** is a **Visual Architecture Layer** that introduces the **"Architecture-as-a-File"** paradigm. It stores the entire project structure in a single unified JSON file, enabling:
+**O²Prex (Object-Oriented Process Representation & Architecture EXecution)** is a **Visual Architecture Layer** that introduces the **"Architecture-as-a-File"** paradigm. It stores the entire project structure in a single unified file, enabling:
 
 - Visual OOP structure display
 - Live search with instant visual filtering
 - Dependency analysis (Datum Connections)
-- AI-Ready export (JSONC with AI Header)
+- AI-Ready export
 - Visual project management (Todos, Flags)
 - Merge Engine for code generation
-- External IDE integration (VS Code, PyCharm, etc.)
+- External IDE integration
 
 ### 1.3 The Ask
 
@@ -80,7 +81,7 @@ We are seeking strategic partners to:
 | Field | Information |
 |-------|-------------|
 | **Name** | Atila Ghashghaie |
-| **Role** | Designer of Machinery & Electronic Circuits • Software Architecture Researcher |
+| **Role** | Software Architecture Researcher |
 | **Email** | atila.gh@gmail.com |
 | **Website** | http://poyeshmashin.ir |
 | **License** | Proprietary Commercial (NOT Open Source) |
@@ -100,12 +101,12 @@ We are seeking strategic partners to:
 
 | Innovation | Description |
 |------------|-------------|
-| **Architecture-as-a-File** | Single JSON file as source of truth for entire project |
+| **Architecture-as-a-File** | Single file as source of truth for entire project |
 | **Visual Architecture Canvas** | Color-coded, tree-based visualization of all project components |
 | **Live Search with Visual Filtering** | Instant search with real-time visual feedback |
 | **Datum Connections** | Automatic dependency analysis between components |
 | **AI Header** | Natural-language instructions for AI tools |
-| **Merge Engine** | Controlled code generation from JSON model |
+| **Merge Engine** | Controlled code generation from model |
 
 ### 2.4 Product Status
 
@@ -198,13 +199,9 @@ The developer tools market continues to grow as software development becomes mor
 
 | Product | Type | Relationship to O²Prex |
 |---------|------|-----------------------|
-| **VS Code** | IDE | Complementary |
-| **PyCharm** | IDE | Complementary |
-| **IntelliJ** | IDE | Complementary |
-| **Eclipse** | IDE | Complementary |
-| **PlantUML** | UML Tool | Partial overlap |
-| **Draw.io** | Diagram Tool | Partial overlap |
-| **Enterprise Architect** | Modeling Tool | Partial overlap |
+| **Modern IDEs** | IDE | Complementary |
+| **UML Tools** | Diagram Tool | Partial overlap |
+| **Modeling Tools** | Architecture Tool | Partial overlap |
 
 ### 5.2 Key Differentiators
 
@@ -300,8 +297,8 @@ The developer tools market continues to grow as software development becomes mor
 - Variable Inspector
 - Todo Lists & Flag System
 - Lock/Suppress Controls
-- AI-Ready Export (JSONC)
-- External Editor Integration (VS Code)
+- AI-Ready Export
+- External IDE Integration
 - Move Mode with OOP Rules
 - Copy/Cut/Paste (Tree-based)
 - Undo/Redo
@@ -493,7 +490,7 @@ The developer tools market continues to grow as software development becomes mor
 | Python Version | 3.10+ |
 | Minimum RAM | 512 MB |
 | Supported OS | Windows, macOS, Linux |
-| Export Format | JSONC |
+| Export Format | Structured JSON |
 | File Format | .oop |
 
 ### Appendix C: Contact Information
@@ -501,7 +498,7 @@ The developer tools market continues to grow as software development becomes mor
 | Field | Information |
 |-------|-------------|
 | **Name** | Atila Ghashghaie |
-| **Role** | Designer of Machinery & Electronic Circuits • Software Architecture Researcher |
+| **Role** | Software Architecture Researcher |
 | **Email** | atila.gh@gmail.com |
 | **Website** | http://poyeshmashin.ir |
 | **License** | Proprietary Commercial (NOT Open Source) |
