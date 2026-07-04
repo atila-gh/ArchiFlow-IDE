@@ -162,7 +162,7 @@ Search across **code, tags, comments, and docstrings**, then **isolate** only ma
 
 
 ### 🚀 External Editor Integration
-Ctrl+Double-click any item to open it in **VS Code** (or any IDE) with:
+Ctrl+Double-click any item to open it in **PyCharm** , **VScode** (or any IDE) with:
 - ✅ Auto-complete configured
 - ✅ PYTHONPATH set
 - ✅ File Watcher for instant sync
