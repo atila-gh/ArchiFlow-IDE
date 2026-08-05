@@ -16,7 +16,7 @@
 **Atila Ghashghaie**  
 Designer of Machinery & Electronic Circuits • Software Architecture Researcher  
 Email: **atila.gh@gmail.com**  
-Website: **http://poyeshmashin.ir**  
+Website: **http://O2prex.ir**  
 License: **Proprietary Commercial** (NOT Open Source)
 
 ---
@@ -423,7 +423,7 @@ Website: **http://poyeshmashin.ir**
 If you're interested in collaboration, investment, licensing, or enterprise integration, feel free to reach out.
 
 - **Email:** atila.gh@gmail.com
-- **Website:** http://poyeshmashin.ir
+- **Website:** http://O2prex.ir
 - **Project:** O²Prex - Visual OOP Architecture IDE
 
 For licensing inquiries:  
